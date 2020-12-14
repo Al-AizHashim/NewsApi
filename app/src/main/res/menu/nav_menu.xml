@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:textColor="#000"
+
+    >
+
+    <item
+        android:id="@+id/political"
+        android:title="@string/political"
+        android:icon="@drawable/abc_vector_test"
+        />
+    <item
+        android:id="@+id/sport"
+        android:background="#25FF9800"
+        android:title="@string/sport"
+
+        />
+    <item
+        android:id="@+id/oddity"
+        android:title="@string/oddity"
+
+        />
+
+</menu>
